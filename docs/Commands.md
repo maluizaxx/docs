@@ -6,7 +6,7 @@ title: Commands
 
 :::info Note
 ### Always remember the following!
-- The default prefix of Rythm is `!`. If you have changed your prefix to something else, please use your prefix instead of `!`. If you forget your prefix, mention Rythm (`@Rythm#3722`).
+- The default prefix of Rythm is `>`. If you have changed your prefix to something else, please use your prefix instead of `>`. If you forget your prefix, mention Rythm (`@Rythm#3722`).
 - **Never include `<>` in your messages when using a command!**
 - Time can be in different formats
    + Example: `100`, `1:50`, `2m30s`
